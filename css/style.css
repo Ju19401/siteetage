@@ -1,0 +1,17 @@
+
+@import "menu.css";
+@import "index.css";
+@import "gallery.css";
+@import "contact.css";
+@import "footer.css";
+@import "topnav.css";
+
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+a {
+  color: #3C4048;
+}
