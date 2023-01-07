@@ -7,3 +7,9 @@
   font-size: 1em;
   color: #3C4048;
 }
+
+.logo img{
+  width: 16%;
+  margin-top: 2rem;
+  position: relative;
+}
