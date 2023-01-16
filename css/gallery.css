@@ -9,4 +9,7 @@
 
 .card-category {
   margin-bottom: 1rem;
+  border-radius: 8px;
+  box-shadow:  4px 4px  #FEFCF3;
+  border-radius: 16px;
 }

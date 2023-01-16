@@ -9,8 +9,7 @@
 }
 
 .logo img{
-  width: 24%;
-  margin-top: 5rem;
+  margin-top: 2rem;
   position: relative;
 }
 
@@ -22,3 +21,16 @@
   text-decoration: none;
 }
 
+.image img{
+ border-radius: 8px;
+ box-shadow:  4px 4px  #FEFCF3;
+}
+
+.hours h3 {
+  font-size: 1rem;
+
+}
+
+.hours a {
+  font-size: 18px;
+}
