@@ -5,3 +5,7 @@
   padding: 1rem;
   text-decoration: none;
 }
+
+.menu p {
+  font-size: 8px;
+}
