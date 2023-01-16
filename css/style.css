@@ -7,11 +7,13 @@
 @import "topnav.css";
 
 
-body {
+html, body {
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
+  margin: 0;
 }
 
 a {
   color: #3C4048;
 }
+
