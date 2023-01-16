@@ -24,13 +24,21 @@
 .image img{
  border-radius: 8px;
  box-shadow:  4px 4px  #FEFCF3;
+ margin: 2rem;
 }
 
 .hours h3 {
   font-size: 1rem;
-
+ font-weight: 300;
+ margin-bottom: 1rem;
 }
 
 .hours a {
-  font-size: 18px;
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 1rem;
+}
+
+.address {
+  margin-top: 2rem;
 }
