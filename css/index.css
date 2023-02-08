@@ -13,14 +13,6 @@
   position: relative;
 }
 
-.down {
-  background-color: #FAF8F1;
-  color: #6B728E;
-  width: 100%;
-  padding: 1rem;
-  text-decoration: none;
-}
-
 .image img{
  border-radius: 8px;
  box-shadow:  4px 4px  #FEFCF3;
@@ -29,16 +21,23 @@
 
 .hours h3 {
   font-size: 1rem;
- font-weight: 300;
- margin-bottom: 1rem;
-}
-
-.hours a {
-  font-size: 24px;
-  font-weight: bold;
-  margin-right: 1rem;
+  font-weight: 300;
+  margin-bottom: 1rem;
 }
 
 .address {
   margin-top: 2rem;
+}
+
+.takeout {
+  font-size: 24px;
+  font-weight: 300;
+  margin-right: 1rem;
+  padding: 2rem;
+}
+
+.takeout h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
 }

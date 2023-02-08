@@ -1,4 +1,4 @@
-.down {
+.footer {
   background-color: #FAF8F1;
   color: #6B728E;
   width: 100%;
@@ -7,5 +7,10 @@
 }
 
 .menu p {
-  font-size: 8px;
+  font-size: 1rem;
+}
+
+.menudescription li {
+ list-style-type: none;
+ line-height: 1.5rem;
 }
