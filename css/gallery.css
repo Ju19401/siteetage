@@ -4,11 +4,10 @@
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 16px;
   padding: 1rem;
-  border-radius: 8px;
-  box-shadow:  4px 4px  #FEFCF3;
-  border-radius: 16px;
+  margin: 2rem;
 }
 
 .container img {
   box-shadow: #B2B2B2 4px 4px 4px;
+  border-radius: 8px;
 }

@@ -25,8 +25,14 @@
   margin-bottom: 1rem;
 }
 
-.address {
+.adresse {
   margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.adresse p {
+  font-size: 1rem;
+
 }
 
 .takeout {
@@ -40,4 +46,8 @@
   font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 1rem;
+}
+
+.takeout a {
+  margin-right: 1rem;
 }
