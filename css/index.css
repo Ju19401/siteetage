@@ -1,6 +1,7 @@
 .titre h1 {
   text-shadow: 1px 1px 1px #B2B2B2;
-  font-size: 3em;
+  font-size: 3rem;
+  margin-left: 3rem;
 }
 
 .titre p {
