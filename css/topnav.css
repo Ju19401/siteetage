@@ -1,9 +1,10 @@
 .topnav {
   background-color: #FAF8F1;
   color: #6B728E;
-  font-size: 20px;
+  font-size: 16px;
   padding: 2rem;
   width: 100%;
+
 }
 .topnav a {
   padding: 2rem;

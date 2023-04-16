@@ -1,6 +1,11 @@
+.index {
+ text-align: center;
+}
+
 .titre h1 {
   text-shadow: 1px 1px 1px #B2B2B2;
   font-size: 3rem;
+  margin: 3rem;
 }
 
 .titre p {
@@ -23,6 +28,10 @@
   font-size: 1rem;
   font-weight: 300;
   margin-bottom: 1rem;
+}
+
+.hours p {
+  margin-right: 1rem;
 }
 
 .adresse {
