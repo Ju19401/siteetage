@@ -1,4 +1,3 @@
-
 @import "menu.css";
 @import "index.css";
 @import "gallery.css";
@@ -9,10 +8,12 @@
 @import "pro.css";
 
 
-body {
+html, body {
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
-  margin: 0!important;
+  margin: 0;
+  height: 100%;
+  width:100%;
 }
 
 a {
@@ -21,8 +22,4 @@ a {
 
 img {
  border-radius: 1rem;
-}
-@viewport {
-  width: device-width;
-  zoom: 1;
 }
