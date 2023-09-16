@@ -1,5 +1,13 @@
 .mapouter {
-  margin: 2rem;
+  margin: 5rem;
+  margin-bottom: 5rem;
+  padding: auto;
+  height: 50%;
+
 }
 
-
+.contact {
+  margin: 4rem;
+  margin-bottom: 5rem;
+  padding: auto;
+}
